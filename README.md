@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="200" alt="Ishika Tyagi" />
+  <img src="profile.jpeg" width="500" alt="Ishika Tyagi" />
 </p>
 
  ## Hi there 👋
