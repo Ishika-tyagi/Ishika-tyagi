@@ -30,15 +30,10 @@ I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong intere
 
 ### 📫 How to reach me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 ishika.tyagi@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishika-tyagi-276728288/)
+- 📧 ishikatyagi041@gmail.com
 
 ---
-
-<!--
-**Ishika-tyagi/Ishika-tyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...  
   Strengthening my cloud and AI development skills through hands-on learning.
@@ -54,10 +49,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...  
   AICTE Internship experience, AWS certification journey, or Salesforce development.
-
-- 📫 How to reach me:  
-  Connect via LinkedIn or email: ishika.tyagi@example.com
-
 - 😄 Pronouns:  
   She/Her
 
