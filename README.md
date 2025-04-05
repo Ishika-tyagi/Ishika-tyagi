@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Ishika-tyagi/Ishika-tyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong interest in Artificial Intelligence, Cloud Computing, and CRM platforms. I enjoy exploring real-world applications of technology through hands-on projects and industry internships.
 
 ---
@@ -37,6 +34,15 @@ I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong intere
 - 📧 ishika.tyagi@example.com
 
 ---
+
+<!--
+**Ishika-tyagi/Ishika-tyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...  
+  Strengthening my cloud and AI development skills through hands-on learning.
+
 - 🌱 I’m currently learning ...  
   Power BI, Excel for data visualization and analysis, and deeper AWS cloud services.
 
@@ -49,9 +55,12 @@ I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong intere
 - 💬 Ask me about ...  
   AICTE Internship experience, AWS certification journey, or Salesforce development.
 
+- 📫 How to reach me:  
+  Connect via LinkedIn or email: ishika.tyagi@example.com
+
 - 😄 Pronouns:  
   She/Her
 
 - ⚡ Fun fact:  
   I'm a curious learner who loves simplifying complex systems and making tech more accessible.
-
+-->
