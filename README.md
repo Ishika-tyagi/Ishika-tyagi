@@ -1,28 +1,33 @@
-## Hi there 👋
 
-I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong interest in Artificial Intelligence, Cloud Computing, and CRM platforms. I enjoy exploring real-world applications of technology through hands-on projects and industry internships.
+ ## Hi there 👋
+
+I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong interest in Artificial Intelligence, Cloud Computing, and Automation. I enjoy applying technology to solve real-world problems and continuously expanding my skills through hands-on learning and industry internships.
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Certifications
 
 - 🎓 **AICTE Internship on AI: Transformative Learning with TechSaksham**  
-  Successfully completed Phase 4 of this initiative by Microsoft & SAP, where I worked on real-time AI projects and solutions.
+  Successfully completed Phase 4 of this initiative by Microsoft & SAP, working on practical AI use cases.
 
-- ☁️ **AWS Certified Cloud Practitioner**  
-  Earned the globally recognized AWS certification, demonstrating strong foundational knowledge in cloud concepts, services, and deployment models.
+- ☁️ **AWS Certified Cloud Practitioner – CLF-C02**  
+  Demonstrated foundational cloud expertise with Amazon Web Services.
 
 - 💼 **Salesforce Developer Internship**  
-  Gained hands-on experience in Salesforce development, automation, and CRM customization, building solutions to streamline business processes.
+  Worked on CRM development, automation, and custom business solutions.
 
-- 🌟 **Other Notable Achievements**  
-  Completed several certifications and training programs in AI, cloud, and software development from reputed platforms and organizations.
+- 🧠 **Certifications**  
+  - ✔️ Certification in Python Programming  
+  - ✔️ UiPath Automation (by ICT Academy)  
+  - ✔️ Certification in Cybersecurity (by Cisco)  
+  - ✔️ Certification in Cloud Security (by CCSK Foundation)  
+  - ✔️ Certification in Packet Tracing (by Cisco)
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages**: Python, Java, HTML, CSS, JavaScript  
+- **Languages**: Python, Java, HTML, CSS, JavaScript,C++,C,MYSQL  
 - **Platforms & Tools**: AWS, Salesforce, Git, GitHub, Power BI, Excel  
 - **Frameworks/Libraries**: scikit-learn, pandas, Flask, Streamlit
 
