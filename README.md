@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="WhatsApp Image 2025-02-18 at 6.48.17 PM.jpeg" width="500" alt="Ishika Tyagi" />
-</p>
+<img src="WhatsApp Image 2025-02-18 at 6.48.17 PM.jpeg" align="right" width="400" style="margin-left: 10px;" />
 
  ## Hi there 👋
 
@@ -18,6 +16,12 @@ I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong intere
 
 - 💼 **Salesforce Developer Internship**  
   Worked on CRM development, automation, and custom business solutions.
+  
+- 🌐 **Cisco Virtual Internship**
+  Understanding cyber threats, attacks, and vulnerabilities ,Basics of network security and how to protect data
+  
+- 🤖 **Android Developer Virtual Internship**
+   Android Basics with Kotlin – Fundamentals of Android development.
 
 - 🧠 **Certifications**  
   - ✔️ Certification in Python Programming  
@@ -25,6 +29,8 @@ I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong intere
   - ✔️ Certification in Cybersecurity (by Cisco)  
   - ✔️ Certification in Cloud Security (by CCSK Foundation)  
   - ✔️ Certification in Packet Tracing (by Cisco)
+  - ✔️ MySQL Certification (by GUVI) 
+  - ✔️ Java Certification (by Infosys Springboard)
 
 ---
 
@@ -43,20 +49,15 @@ I'm Ishika Tyagi, a passionate B.Tech student (2022–2026) with a strong intere
 
 ---
 
-- 🔭 I’m currently working on ...  
-  Strengthening my cloud and AI development skills through hands-on learning.
-
-- 🌱 I’m currently learning ...  
+- 🔭 I’m currently learning ...  
   Power BI, Excel for data visualization and analysis, and deeper AWS cloud services.
 
 - 👯 I’m looking to collaborate on ...  
   AI projects, cloud-based apps, and Salesforce solutions.
 
-- 🤔 I’m looking for help with ...  
-  Advanced AWS services and real-time AI deployment techniques.
-
 - 💬 Ask me about ...  
   AICTE Internship experience, AWS certification journey, or Salesforce development.
+  
 - 😄 Pronouns:  
   She/Her
 
