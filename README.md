@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2025-02-18 at 6.48.17 PM.jpeg" align="right" width="200" style="margin-left: 10px;" />
+<img src="WhatsApp Image 2025-02-18 at 6.48.17 PM.jpeg" align="right" width="390" style="margin-left: 10px;" />
 
  ## Hi there 👋
 
