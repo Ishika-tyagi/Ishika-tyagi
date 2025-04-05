@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpeg" width="500" alt="Ishika Tyagi" />
+  <img src="WhatsApp Image 2025-02-18 at 6.48.17 PM.jpeg" width="500" alt="Ishika Tyagi" />
 </p>
 
  ## Hi there 👋
